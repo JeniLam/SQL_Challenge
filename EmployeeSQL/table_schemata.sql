@@ -10,7 +10,6 @@ create table dept_emp (
 	dept_no VARCHAR (4) not null
 );
 
-
 select * from dept_emp
 
 create table dept_manager(
