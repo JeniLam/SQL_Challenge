@@ -16,7 +16,7 @@ Inspect the CSVs and sketch out an ERD of the tables. Used ERD tool: [http://www
 
 #### Data Engineering
 
-* Found in EmployeeSQL foler
+* Found in EmployeeSQL folder
 
 * Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
